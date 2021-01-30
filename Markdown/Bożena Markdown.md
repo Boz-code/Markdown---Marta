@@ -8,7 +8,7 @@
     - [Chapter 1.1.1](#chapter-111)
 - [More Information](#more-information)
 - [How to work with GitHub](#how-to-work-with-github)
-- [How to log into GitHub?](#how-to-log-into-github)
+- [How to register with GitHub?](#how-to-register-with-github)
 - [How to create a GitHub repository?](#how-to-create-a-github-repository)
 - [How to place a document in a GitHub repository?](#how-to-place-a-document-in-a-github-repository)
 - [How to share a document in a GitHub repository?](#how-to-share-a-document-in-a-github-repository)
@@ -101,7 +101,12 @@ For more information about VSCode commands, see https://code.visualstudio.com/do
 How to work with GitHub
 ======
 
-# How to log into GitHub? 
+# How to register with GitHub? 
+1. Open https://github.com/.
+2. Click '*Sign up*'.
+3. Complete the form and click '*Create account*'.
+4. Open the mail you provided and find an email from GitHub asking you to verify your email address.
+5. Click '*Verify email address*' and log in to GitHub. 
 
 
 
