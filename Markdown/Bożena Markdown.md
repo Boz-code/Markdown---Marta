@@ -7,6 +7,11 @@
   - [Chapter 1.1](#chapter-11)
     - [Chapter 1.1.1](#chapter-111)
 - [More Information](#more-information)
+- [How to work with GitHub](#how-to-work-with-github)
+- [How to log into GitHub?](#how-to-log-into-github)
+- [How to create a GitHub repository?](#how-to-create-a-github-repository)
+- [How to place a document in a GitHub repository?](#how-to-place-a-document-in-a-github-repository)
+- [How to share a document in a GitHub repository?](#how-to-share-a-document-in-a-github-repository)
 
 
 How to download Visual Studio Code (VSCode)?
@@ -91,3 +96,35 @@ To enter a link to a file, use square brackets [] for alt text and normal bracke
 More Information
 =================
 For more information about VSCode commands, see https://code.visualstudio.com/docs/?dv=win.
+
+
+How to work with GitHub
+======
+
+# How to log into GitHub? 
+
+
+
+# How to create a GitHub repository?
+1. Open GitHub Desktop.
+2. In the main menu, go to '*File*' and select '*New repository*'.
+3. Add '*Name*' and '*Description*' to your folder and select '*Local path*'.
+4. Tick '*Initialize this repository with Readme*' and select 'None' to both '*Git ignore*' and '*License*'.
+5. Click '*Create repository*'.
+
+# How to place a document in a GitHub repository?
+1. Use file explorer on your computer to navigate to your desired repository. 
+2. Drag and drop, or copy your chosen file into the repository. 
+3. Open GitHub Desktop.
+4. In the '*Changes*' tab, click '*Commit to **main***'.
+5. In the box called '*Publish your repository to GitHub*' box, click '*Publish repository*'.
+6. In the '*Publish repository*' window, select *GitHub.com* tab, add '*Name*' and '*Description*' to your file, and tick '*Keep this code private*'.
+7. Click '*Publish repository*'.
+   
+# How to share a document in a GitHub repository?
+1. Log into https://github.com/.
+2. From the '*Repositories*' section, navigate to the file you want to share.
+3. Open the file and navigate to '*Settings*'.
+4. In the menu on the left hand side, select '*Manage access*'.
+5. Click '*Invite a collaborator*'.
+6. In the '*Invite a collaborator*' window, search and select users you want to share with and click '*Select a collaborator above*'. 
