@@ -1,3 +1,12 @@
+layout: default
+
+title: Visual Studio User Guide
+
+parent: Visual Studio User Guide
+
+nav_order: 1
+
+---
 
 - [How to download Visual Studio Code (VSCode)?](#how-to-download-visual-studio-code-vscode)
 - [How to install extensions for VSCode?](#how-to-install-extensions-for-vscode)
